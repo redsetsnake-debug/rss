@@ -388,9 +388,6 @@ export default function App() {
       
       {/* Top Left Title */}
       <div className="absolute top-12 left-12 z-20 pointer-events-none">
-        <h1 className="text-5xl font-bold tracking-tighter text-[#be123c] leading-none mb-2">
-          粉色梦核游乐园
-        </h1>
         <p className="text-sm uppercase tracking-[0.2em] font-sans opacity-60">
           Project: Perpetual Funfair / Status: Uncanny
         </p>
